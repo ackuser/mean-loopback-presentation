@@ -1,0 +1,7 @@
+{
+  "name": "a-mean-app-using-strongloops-loopback-deployment-blueprint-rackspaces-developer-cloud-server",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~2.6.1"
+  }
+}

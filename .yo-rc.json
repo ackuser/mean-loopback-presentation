@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "A MEAN App Using Strongloop's Loopback Deployment Blueprint  Rackspace's Developer+ Cloud Server",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "jewelsjacobs",
+    "githubRepository": "mean-loopback-presentation"
+  }
+}
