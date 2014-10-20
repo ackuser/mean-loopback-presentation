@@ -1,1 +1,59 @@
-["index.md"]
+[
+    "index.md",
+    {
+        "filename": "cloud-server-setup.md",
+        "attr": {
+            "data-background": "#f7f3de"
+        }
+    },
+    {
+        "filename": "rackspace-developer.md",
+        "attr": {
+            "data-background": "#add9e4"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/CreateServer.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/CreateServerOptionsOne.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/CreateServerOptionsTwo.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/Server.png"
+        }
+    },
+    {
+        "filename": "install-nodejs-and-npm.md",
+        "attr": {
+            "data-background": "#fff"
+        }
+    },
+    {
+        "filename": "strongloop.md",
+        "attr": {
+            "data-background": "#add9e4"
+        }
+    },
+    {
+        "filename": "loopback.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "playtime-questions.md",
+        "attr": {
+            "data-background": "#add9e4"
+        }
+    }
+]

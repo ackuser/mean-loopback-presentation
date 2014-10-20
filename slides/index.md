@@ -1,10 +1,4 @@
 
-# A MEAN App Using Strongloop's Loopback Deployment Blueprint  Rackspace's Developer+ Cloud Server
+### Strongloop's Loopback & Rackspace's Developer+ Cloud Services & MongoDB & AngularJS = MEAN
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+![MEAN Ninja](images/ninja.png)
