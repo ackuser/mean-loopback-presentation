@@ -12,4 +12,5 @@ Then install with Ubuntu:
 $ apt-get install nodejs
 $ apt-get install build-essential
 $ apt-get install git
+$ npm update npm -g
 ```
